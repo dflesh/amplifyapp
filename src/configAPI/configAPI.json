@@ -1,0 +1,9 @@
+{
+  "apiPrefix": "http://localhost:3001/",
+  "serverPort": "3001",
+  "db": {
+    "name": "mqjnvzlh",
+    "host": "postgres://mqjnvzlh:4h33E8oRsKsxeua0Ocz5fxFJAYDywv5m@salt.db.elephantsql.com:5432/mqjnvzlh",
+    "port": "5432"
+  }
+}
